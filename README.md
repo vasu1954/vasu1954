@@ -1,13 +1,11 @@
 ![logo](https://github.com/vasu1954/vasu1954/blob/main/for-webdevelope_64136297.png)
 <h1 align="center">Hi 👋, I'm Vasu Vaghela</h1>
-<h3 align="center">A passionate MERN Stack Developer </h3>
+<h3 align="center">A passionate Software Developer </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding_image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu1954&label=Profile%20views&color=0e75b6&style=flat" alt="vasu1954" /> </p>
 
-- 🔭 I’m currently working on **At special character**
-
-- 🌱 I’m currently learning **Backend development**
+- 🔭 I’m currently working at **Hexadroit Pvt.Ltd.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vasu-vaghela-261a62175/](https://www.linkedin.com/in/vasu-vaghela-261a62175/)
 
